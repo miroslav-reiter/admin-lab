@@ -2,15 +2,14 @@
 
 Praktický repozitár na precvičovanie **administrácie IT systémov, Microsoft Windows, Microsoft Windows Server, Linuxu a PowerShellu**. Obsah je zameraný na príkazy, diagnostiku, správu procesov, služieb, sietí, portov, databáz, automatizáciu a riešenie reálnych administrátorských úloh.
 
-Repozitár nadväzuje na päť online kurzov VITA Academy:
+Repozitár nadväzuje na rôzne online kurzov VITA Academy:
 
 1. [Online kurz Administrátor a Správca IT](https://www.vita.sk/online-kurz-administrator-a-spravca-it/)
-2. [Online kurz Microsoft Windows III. Pokročilý](https://www.vita.sk/online-kurz-microsoft-windows-iii-pokrocily/)
-3. [Online kurz Microsoft Windows Server I. Začiatočník](https://www.vita.sk/online-kurz-microsoft-windows-server-i-zaciatocnik/)
-4. [Online kurz Linux Administrátor (Linux Admin) I. Začiatočník](https://www.vita.sk/online-kurz-linux-administrator-linux-admin-i-zaciatocnik/)
-5. [Online kurz PowerShell I. Začiatočník](https://www.vita.sk/online-kurz-powershell-i-zaciatocnik/)
+2. [Online kurz Microsoft Windows](https://www.vita.sk/online-kurz-microsoft-windows-iii-pokrocily/)
+3. [Online kurz Microsoft Windows Server](https://www.vita.sk/online-kurz-microsoft-windows-server-i-zaciatocnik/)
+4. [Online kurz Linux Administrátor (Linux Admin)](https://www.vita.sk/online-kurz-linux-administrator-linux-admin-i-zaciatocnik/)
+5. [Online kurz PowerShell](https://www.vita.sk/online-kurz-powershell-i-zaciatocnik/)
 
-> **Pravidlo názvov súborov:** názvy v repozitári zapisujeme po slovensky bez diakritiky a bez medzier. Na oddeľovanie slov používame pomlčku. Technické názvy príkazov, cmdletov, služieb, protokolov a produktov zostávajú v originálnom tvare.
 
 ## 📑 Obsah
 
